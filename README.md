@@ -1,4 +1,6 @@
 ### Hi there 👋
+相关教程和图文请点wiki~
+[WiKi教程图文合集！！点我~](https://github.com/bigtouchai/chaiwiki/wiki)
 
 <!--
 **bigtouchai/bigtouchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
