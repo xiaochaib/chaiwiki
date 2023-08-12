@@ -11,6 +11,7 @@ Welcome to the chaiwiki wiki!
 [04、部署V2Ray（Vless+ws+tls）节点教程](https://github.com/xiaochaib/chaiwiki/wiki/%E6%96%B0%E6%89%8B%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2V2Ray%E8%8A%82%E7%82%B9%E3%80%81%E4%BD%BF%E7%94%A8%E6%9C%80%E5%AE%89%E5%85%A8%E7%9A%84%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%8D%8F%E8%AE%AE%EF%BC%81)<br />
 [05、部署Xray（vision+reality）节点教程](https://github.com/xiaochaib/chaiwiki/wiki/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BAV2Ray%EF%BC%88XRay%EF%BC%89--Vision-REALITY%E5%8D%8F%E8%AE%AE%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E8%8A%82%E7%82%B9%EF%BC%81)<br />
 [06、部署Vless WS+TLS并开启CDN防护教程](https://github.com/xiaochaib/chaiwiki/wiki/%E8%87%AA%E5%BB%BAVless-WS-TLS%E8%8A%82%E7%82%B9%EF%BC%8C%E5%B9%B6%E5%BC%80%E5%90%AFCDN%E6%8F%90%E5%8D%87%E8%8A%82%E7%82%B9%E9%98%B2%E6%8A%A4%EF%BC%8C%E5%AE%8C%E6%95%B4%E6%95%99%E7%A8%8B%EF%BC%81)<br />
+[07、苹果MacBook搭建节点零基础教程](https://github.com/xiaochaib/chaiwiki/wiki/%E8%8B%B9%E6%9E%9CMacBook%E8%87%AA%E5%BB%BA%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E8%8A%82%E7%82%B9%E5%85%A8%E6%95%99%E7%A8%8B%E3%80%81%E5%AE%9E%E7%8E%B0Macbook%E3%80%81iPad%E3%80%81iPhone%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)<br />
 
 
 # 其它索引
